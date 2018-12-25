@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+#page { background-image:url("../image/img_bg_02.jpg"); background-repeat:no-repeat; background-position:center; background-size:120%; }
+#page_container { margin-top:70px;}
+#page_container p {font-size:20px; margin-bottom:-10px; }
+
+#btn_radio {width:3%; height:1em;}
+
+#info {margin-left:18px;}
+#info h2 {margin-top:10px;}
